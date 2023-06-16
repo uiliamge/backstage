@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstageTeste
+  annotations:
+    github.com/project-slug: uiliamge/backstage
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
